@@ -28,10 +28,11 @@ class GradeCalculator{
 		Final = in.nextInt();
 		
 		// write the equation for the final total grade
+		// HW worth 15%, both midterm worth 20% each, CL worth 10%, Final worth 35% 
 		int TotalGrade;
 		TotalGrade = (HW * 15/100) + (M1 * 20/100) + (M2 * 20/100) + (CL * 10/100) + (Final * 35/100);
 
-			System.out.println("your final grade is TotalGrade: " + TotalGrade );
+		System.out.println("Your final grade is: " + TotalGrade );
 		
 	}	
 }	
