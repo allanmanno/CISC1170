@@ -1,0 +1,7 @@
+Vehicle,Speed,Time
+train 50 3
+car 25 7
+bike 10 2
+f1 225 4
+plane 200 3
+bus 50 4
