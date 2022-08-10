@@ -1,0 +1,4 @@
+ Word count is = 0
+text1 Word count is = 612
+text2 Word count is = 608
+text3 Word count is = 590
