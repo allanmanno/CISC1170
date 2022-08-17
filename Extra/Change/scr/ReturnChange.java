@@ -69,10 +69,6 @@ public class ReturnChange{
 				b1++;
 			}
 		
-		
-	
-		
-		
 		double numOfQuater;
 		numOfQuater = change /0.25;
 		int quaters = (int)(numOfQuater);
@@ -94,16 +90,6 @@ public class ReturnChange{
 		double numOfCent;
 		numOfCent = change / 0.01;
 		int cents = (int)(numOfCent);
-		
-
-		
-		
-		
-		
-		
-		
-		
-		
 		
 		pw.print("$100 bills:");
 		pw.printf("%10s", b100 +"\n");
