@@ -1,0 +1,120 @@
+total: 379.93
+
+$100 bills:        3
+$50 bills:         1
+$20 bills:         1
+$10 bills:         0
+$5 bills:          1
+$1 bills:          4
+25c coins:         3
+10c coins:         1
+5c coins:          1
+1c coins:          3
+--------------------------
+
+
+total: 19.2
+
+$100 bills:        3
+$50 bills:         1
+$20 bills:         1
+$10 bills:         1
+$5 bills:          2
+$1 bills:          8
+25c coins:         0
+10c coins:         1
+5c coins:          1
+1c coins:          4
+--------------------------
+
+
+total: 38.91
+
+$100 bills:        3
+$50 bills:         1
+$20 bills:         2
+$10 bills:         2
+$5 bills:          3
+$1 bills:         11
+25c coins:         3
+10c coins:         1
+5c coins:          1
+1c coins:          0
+--------------------------
+
+
+total: 105.85
+
+$100 bills:        4
+$50 bills:         1
+$20 bills:         2
+$10 bills:         2
+$5 bills:          4
+$1 bills:         11
+25c coins:         3
+10c coins:         0
+5c coins:          1
+1c coins:          4
+--------------------------
+
+
+total: 11280.06
+
+$100 bills:      116
+$50 bills:         2
+$20 bills:         3
+$10 bills:         3
+$5 bills:          4
+$1 bills:         11
+25c coins:         0
+10c coins:         0
+5c coins:          1
+1c coins:          0
+--------------------------
+
+
+total: 25296.7
+
+$100 bills:      368
+$50 bills:         3
+$20 bills:         5
+$10 bills:         3
+$5 bills:          5
+$1 bills:         12
+25c coins:         2
+10c coins:         2
+5c coins:          0
+1c coins:          0
+--------------------------
+
+
+total: 0.97
+
+$100 bills:      368
+$50 bills:         3
+$20 bills:         5
+$10 bills:         3
+$5 bills:          5
+$1 bills:         12
+25c coins:         3
+10c coins:         2
+5c coins:          0
+1c coins:          1
+--------------------------
+
+
+total: 0.17
+
+$100 bills:      368
+$50 bills:         3
+$20 bills:         5
+$10 bills:         3
+$5 bills:          5
+$1 bills:         12
+25c coins:         0
+10c coins:         1
+5c coins:          1
+1c coins:          2
+--------------------------
+
+
